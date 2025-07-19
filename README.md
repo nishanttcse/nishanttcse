@@ -16,10 +16,10 @@
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
-| [**Personalized Content Dashboard**]((https://github.com/nishanttcse/Personalized-Content-Dashboard)) | Dynamic dashboard with API integration | React, Next.js, Redux Toolkit |
-| [**LumiPsyche**]((https://github.com/nishanttcse/LumiPysche-Ai-Therapist)) | Task management application | Node.js, Express, MongoDB |
+| [**Personalized Content Dashboard**](https://github.com/nishanttcse/Personalized-Content-Dashboard)| Dynamic dashboard with API integration | React, Next.js, Redux Toolkit |
+| [**LumiPsyche**](https://github.com/nishanttcse/LumiPysche-Ai-Therapist) | Task management application | Node.js, Express, MongoDB |
 | [**ReWear-Community-Clothing-Exchange**](ReWear-Community-Clothing-Exchange) | Full-featured online store | React, Node.js, Firebase |
-| [**Elderly_CareAI**]((https://github.com/nishanttcse/Elderly_CareAI)) | Real-time weather application | JavaScript, Weather API |
+| [**Elderly_CareAI**](https://github.com/nishanttcse/Elderly_CareAI)| Real-time weather application | JavaScript, Weather API |
 
 ---
 
