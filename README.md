@@ -16,10 +16,10 @@
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
-| [**Personalized Content Dashboard**](https://github.com/nishanttcse/content-dashboard) | Dynamic dashboard with API integration | React, Next.js, Redux Toolkit |
-| [**Project Management Tool**](https://github.com/nishanttcse/project-management-app) | Task management application | Node.js, Express, MongoDB |
-| [**E-Commerce Platform**](https://github.com/nishanttcse/ecommerce-platform) | Full-featured online store | React, Node.js, Firebase |
-| [**Weather Forecast App**](https://github.com/nishanttcse/weather-app) | Real-time weather application | JavaScript, Weather API |
+| [**Personalized Content Dashboard**]((https://github.com/nishanttcse/Personalized-Content-Dashboard)) | Dynamic dashboard with API integration | React, Next.js, Redux Toolkit |
+| [**LumiPsyche**]((https://github.com/nishanttcse/LumiPysche-Ai-Therapist)) | Task management application | Node.js, Express, MongoDB |
+| [**ReWear-Community-Clothing-Exchange**](ReWear-Community-Clothing-Exchange) | Full-featured online store | React, Node.js, Firebase |
+| [**Elderly_CareAI**]((https://github.com/nishanttcse/Elderly_CareAI)) | Real-time weather application | JavaScript, Weather API |
 
 ---
 
@@ -68,10 +68,10 @@
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/nishanttcse" target="blank">
+  <a href="https://www.linkedin.com/in/nishant-s-srivastav/" target="blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:nishanttcse@gmail.com">
+  <a href="mailto:nishantgenius03@gmail.com">
     <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://twitter.com/nishanttcse" target="blank">
