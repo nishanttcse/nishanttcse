@@ -9,7 +9,7 @@
   <a href="https://twitter.com/nishanttcse">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
-  <a href="https://nishanttcse.github.io">
+  <a href=https://readdy.link/preview/dfb21e20-bbe9-4301-b55c-72338dbbae33/1093748">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio">
   </a>
   <a href="mailto:nishantgenius03@gmail.com">
