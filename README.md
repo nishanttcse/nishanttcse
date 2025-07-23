@@ -1,3 +1,7 @@
+
+<!-- Programmer GIF -->
+<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Nishant;Full+Stack+Developer;Open+Source+Enthusiast;Problem+Solver" alt="Typing SVG" />
 </h1>
@@ -147,7 +151,7 @@
 </p>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nishanttcse&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishanttcse&theme=radical&hide_border=true" alt="GitHub Streak" width="48%">
+  ![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 </div>
 
 ---
