@@ -23,6 +23,15 @@ Full-stack expertise in Node.js • React.js • JavaScript
 
 ---
 
+### 🏆 GitHub Trophies
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=nishanttcse&theme=radical&column=7&margin-w=15&margin-h=15&no-frame=true" alt="nishanttcse" />
+  </a>
+</p>
+
+---
+
 ### 💻 Projects
 
 #### ReWear Community Clothing Exchange
@@ -61,55 +70,44 @@ Full-stack expertise in Node.js • React.js • JavaScript
 ---
 
 ### 🛠️ Tech Stack
-#### Languages
-<img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" alt="C++">
-<img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" alt="Java">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript">
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
-
-#### Web & Databases
-<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React">
-<img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" alt="Node.js">
-<img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" alt="Express">
-<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL">
-
-#### AI/ML
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" alt="TensorFlow">
-<img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" alt="Pandas">
-<img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white" alt="OpenAI">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,python,tensorflow,aws,git,github,cpp,java,html,css,bootstrap" />
+</p>
 
 ---
 
 ### 📊 GitHub Stats
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nishanttcse&show_icons=true&theme=radical&count_private=true&include_all_commits=true">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishanttcse&layout=compact&theme=radical&langs_count=8">
-<br>
-<img src="https://streak-stats.demolab.com?user=nishanttcse&theme=radical" alt="streak">
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nishanttcse&show_icons=true&theme=radical&count_private=true&include_all_commits=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishanttcse&layout=compact&theme=radical&langs_count=8">
+  <br>
+  <img src="https://streak-stats.demolab.com?user=nishanttcse&theme=radical" alt="streak">
+</div>
 
 ---
 
-### 🏆 Achievements
-<p>
-• 300+ DSA problems on <strong>LeetCode/HackerRank</strong><br>
-• Python Gold Badge on HackerRank<br>
-• Salesforce Agentblazer Champion 2025<br>
-• 90K+ Instagram audience with 90% engagement growth<br>
-• Led Navrang Club events with 70% engagement boost
+### 🏅 Achievements
+<p align="center">
+  • 300+ DSA problems on <strong>LeetCode/HackerRank</strong><br>
+  • Python Gold Badge on HackerRank<br>
+  • Salesforce Agentblazer Champion 2025<br>
+  • 90K+ Instagram audience with 90% engagement growth<br>
+  • Led Navrang Club events with 70% engagement boost
 </p>
 
 ---
 
 ### 📜 Certifications
-<p>
-AWS Cloud Practitioner • Generative AI (Microsoft)<br>
-Salesforce Trailhead • Accenture SE Simulation<br>
-Infosys Full-Stack Certification
+<p align="center">
+  AWS Cloud Practitioner • Generative AI (Microsoft)<br>
+  Salesforce Trailhead • Accenture SE Simulation<br>
+  Infosys Full-Stack Certification
 </p>
 
 ---
 
 ### 🤝 Let's Connect
-<p>
+<p align="center">
   <a href="mailto:nishantgenius03@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white" alt="Gmail">
   </a>
@@ -118,6 +116,9 @@ Infosys Full-Stack Certification
   </a>
   <a href="https://github.com/nishanttcse">
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://twitter.com/nishanttcse">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" alt="Twitter">
   </a>
 </p>
 
