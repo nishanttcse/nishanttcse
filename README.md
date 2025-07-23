@@ -1,9 +1,20 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Nishant;Full+Stack+Developer;Open+Source+Enthusiast;Problem+Solver" alt="Typing SVG" />
 </h1>
+
 <p align="center">
     Passionate about crafting robust and scalable web applications with a focus on delivering exceptional user experiences.
 </p>
+
+---
+
+## 👋 About Me
+
+[cite_start]I'm Nishant, an aspiring Software Developer with a solid foundation in core computer science concepts like OOPs, Data Structures & Algorithms (with 300+ LeetCode problems solved), DBMS, Machine Learning, Operating Systems, and Software Engineering[cite: 4]. [cite_start]I specialize in REST API development and full-stack engineering, leveraging technologies like Node.js, React.js, and JavaScript[cite: 5].
+
+> [cite_start]"I once built a working application during a 12-hour flight journey ✈️💻 – proving that inspiration (and a good laptop battery!) can strike anywhere." [cite: 44]
+
+---
 
 <h3 align="center">Connect with Me:</h3>
 <p align="center">
@@ -92,6 +103,24 @@
 </p>
 
 ---
+## 🌟 Highlighted Projects
+
+<p align="center">
+    A selection of my recent and most impactful projects. Feel free to explore the code and live demos!
+</p>
+
+| Project Title | Description & Key Features | Technologies Used | Live Demo | Source Code |
+| :------------ | :------------------------- | :---------------- | :-------- | :---------- |
+| **[ReWear-Community-Clothing-Exchange](https://github.com/nishanttcse/ReWear-Community-Clothing-Exchange)** | [cite_start]Engineered a full-stack platform facilitating 1,000+ clothing swaps via direct exchange and a point-based system[cite: 16]. [cite_start]Implemented secure user authentication handling up to 500 daily active users[cite: 17]. [cite_start]Designed a responsive landing page reducing bounce rate by 35%[cite: 18]. [cite_start]Improved listing precision and item match accuracy by 40% with 6+ metadata fields[cite: 19]. | React, Node.js, Express, MongoDB, Authentication | [![GitHub](https://img.shields.io/badge/-Repo-blue?style=flat-square&logo=github&logoColor=white)](https://github.com/nishanttcse/ReWear-Community-Clothing-Exchange) | _No Live Demo Available_ |
+| **[Elderly CareAI-AI-Powered Elderly Assistance System](https://github.com/nishanttcse/Elderly-CareAI-AI-Powered-Elderly-Assistance-System)** | [cite_start]Innovated an AI system supporting 500+ users, reducing response time by 30% and improving caregiver efficiency[cite: 21]. [cite_start]Integrated AI agents to track vitals and detect anomalies, reducing emergency response time by 30%[cite: 22]. [cite_start]Designed an SQLite database for real-time health tracking with <0.5s query latency [cite: 23] [cite_start]and deployed predictive analytics achieving 90% early detection accuracy for potential health issues[cite: 24]. | AI, SQLite, Predictive Analytics | [![GitHub](https://img.shields.io/badge/-Repo-blue?style=flat-square&logo=github&logoColor=white)](https://github.com/nishanttcse/Elderly-CareAI-AI-Powered-Elderly-Assistance-System) | _No Live Demo Available_ |
+| **[AI Code Reviewer](https://github.com/nishanttcse/AI-Code-Reviewer)** | [cite_start]Developed an ML-based bug detection system with 85% accuracy, saving 10 hours/week in reviews[cite: 25]. [cite_start]Reduced codebase bugs by 15% via NLP suggestions, boosting reliability and review efficiency[cite: 26]. [cite_start]NLP static analysis further reduces code defects by 15% through automated pattern recognition [cite: 27] [cite_start]and expanded adoption by 40% across 5+ languages (Python, Java, C++, JavaScript, Ruby)[cite: 28]. | ML, NLP, Python, Java, C++, JavaScript, Ruby | [![GitHub](https://img.shields.io/badge/-Repo-blue?style=flat-square&logo=github&logoColor=white)](https://github.com/nishanttcse/AI-Code-Reviewer) | _No Live Demo Available_ |
+| **[Personalized Content Dashboard](https://github.com/nishanttcse/Personalized-Content-Dashboard)** | A dynamic dashboard for aggregating personalized content from various sources, enhancing user engagement and content discovery. | React, Next.js, Redux Toolkit, Tailwind CSS | [![Live Demo](https://img.shields.io/badge/-Demo-green?style=flat-square&logo=vercel&logoColor=white)](https://personalized-content-dashboard.vercel.app) | [![GitHub](https://img.shields.io/badge/-Repo-blue?style=flat-square&logo=github&logoColor=white)](https://github.com/nishanttcse/Personalized-Content-Dashboard) |
+| **[E-Commerce Platform](https://github.com/nishanttcse/ecommerce-platform)** | Full-featured online shopping experience. | React, Node.js, Firebase | [![Live Demo](https://img.shields.io/badge/-Demo-green?style=flat-square&logo=vercel&logoColor=white)](https://ecommerce-demo-nishant.vercel.app) | [![GitHub](https://img.shields.io/badge/-Repo-blue?style=flat-square&logo=github&logoColor=white)](https://github.com/nishanttcse/ecommerce-platform) |
+| **[Weather Forecast App](https://github.com/nishanttcse/weather-app)** | Real-time weather with 5-day forecast. | JavaScript, Weather API | [![Live Demo](https://img.shields.io/badge/-Demo-green?style=flat-square&logo=vercel&logoColor=white)](https://weather-app-nishant.vercel.app) | [![GitHub](https://img.shields.io/badge/-Repo-blue?style=flat-square&logo=github&logoColor=white)](https://github.com/nishanttcse/weather-app) |
+| **[Blogging Web Application](https://github.com/nishanttcse/blogging-web-app)** | A full-featured blogging platform allowing users to create, publish, and manage their blog posts with rich text editing capabilities. | React, Node.js, Express, MongoDB | [![GitHub](https://img.shields.io/badge/-Repo-blue?style=flat-square&logo=github&logoColor=white)](https://github.com/nishanttcse/blogging-web-app) | _No Live Demo Available_ |
+
+
+---
 ## 🏆 Certifications
 
 * [cite_start]**AWS Cloud Practitioner Essentials** - Amazon Web Services [cite: 34]
@@ -102,38 +131,13 @@
 * [cite_start]**Python, HTML, JavaScript, CSS, and Bootstrap Certification** - Infosys Springboard [cite: 37]
 
 ---
-## 🌟 Highlighted Projects
-
-<p align="center">
-    A selection of my recent and most impactful projects. Feel free to explore the code and live demos!
-</p>
-
-| Project Title | Description & Key Features | Technologies Used | Live Demo | Source Code |
-| :------------ | :------------------------- | :---------------- | :-------- | :---------- |
-| **[ReWear-Community-Clothing-Exchange](https://github.com/nishanttcse/ReWear-Community-Clothing-Exchange)** | Engineered a full-stack platform for 1,000+ clothing swaps via direct exchange and a point-based system. Implemented secure user authentication for up to 500 daily active users and designed a responsive landing page reducing bounce rate by 35%. [cite_start]Improved listing precision and item match accuracy by 40% with 6+ metadata fields. [cite: 16, 17, 18, 19] | React, Node.js, Express, MongoDB, Authentication | [![GitHub](https://img.shields.io/badge/-Repo-blue?style=flat-square&logo=github&logoColor=white)](https://github.com/nishanttcse/ReWear-Community-Clothing-Exchange) | _No Live Demo Available_ |
-| **[Elderly CareAI-AI-Powered Elderly Assistance System](https://github.com/nishanttcse/Elderly-CareAI-AI-Powered-Elderly-Assistance-System)** | Innovated an AI system supporting 500+ users, reducing response time by 30% and improving caregiver efficiency. Integrated AI agents to track vitals and detect anomalies, reducing emergency response time by 30%. [cite_start]Designed an SQLite database for real-time health tracking with <0.5s query latency and deployed predictive analytics achieving 90% early detection accuracy for potential health issues. [cite: 21, 22, 23, 24] | AI, SQLite, Predictive Analytics | [![GitHub](https://img.shields.io/badge/-Repo-blue?style=flat-square&logo=github&logoColor=white)](https://github.com/nishanttcse/Elderly-CareAI-AI-Powered-Elderly-Assistance-System) | _No Live Demo Available_ |
-| **[AI Code Reviewer](https://github.com/nishanttcse/AI-Code-Reviewer)** | Developed an ML-based bug detection system with 85% accuracy, saving 10 hours/week in reviews. Reduced codebase bugs by 15% via NLP suggestions, boosting reliability and review efficiency. [cite_start]NLP static analysis further reduces code defects by 15% through automated pattern recognition and expanded adoption by 40% across 5+ languages (Python, Java, C++, JavaScript, Ruby). [cite: 25, 26, 27, 28] | ML, NLP, Python, Java, C++, JavaScript, Ruby | [![GitHub](https://img.shields.io/badge/-Repo-blue?style=flat-square&logo=github&logoColor=white)](https://github.com/nishanttcse/AI-Code-Reviewer) | _No Live Demo Available_ |
-| **[Personalized Content Dashboard](https://github.com/nishanttcse/Personalized-Content-Dashboard)** | A dynamic dashboard for aggregating personalized content from various sources, enhancing user engagement and content discovery. | React, Next.js, Redux Toolkit, Tailwind CSS | [![Live Demo](https://img.shields.io/badge/-Demo-green?style=flat-square&logo=vercel&logoColor=white)](https://personalized-content-dashboard.vercel.app) | [![GitHub](https://img.shields.io/badge/-Repo-blue?style=flat-square&logo=github&logoColor=white)](https://github.com/nishanttcse/Personalized-Content-Dashboard) |
-| **[Project Management Tool](https://github.com/nishanttcse/project-management-app)** | A robust task management application facilitating team collaboration, task assignment, progress tracking, and deadline management. | Node.js, Express, MongoDB, Socket.IO | [![Live Demo](https://img.shields.io/badge/-Demo-green?style=flat-square&logo=vercel&logoColor=white)](https://project-management-demo.vercel.app) | [![GitHub](https://img.shields.io/badge/-Repo-blue?style=flat-square&logo=github&logoColor=white)](https://github.com/nishanttcse/project-management-app) |
-| **[E-Commerce Platform](https://github.com/nishanttcse/ecommerce-platform)** | A full-featured online shopping platform with user authentication, product listings, shopping cart functionality, and secure payment processing. | React, Node.js, Firebase, Stripe API | [![Live Demo](https://img.shields.io/badge/-Demo-green?style=flat-square&logo=vercel&logoColor=white)](https://ecommerce-demo-nishant.vercel.app) | [![GitHub](https://img.shields.io/badge/-Repo-blue?style=flat-square&logo=github&logoColor=white)](https://github.com/nishanttcse/ecommerce-platform) |
-| **[Weather Forecast App](https://github.com/nishanttcse/weather-app)** | A real-time weather application providing current conditions and a 5-day forecast, utilizing a third-party weather API for accurate data. | JavaScript, Weather API | [![Live Demo](https://img.shields.io/badge/-Demo-green?style=flat-square&logo=vercel&logoColor=white)](https://weather-app-nishant.vercel.app) | [![GitHub](https://img.shields.io/badge/-Repo-blue?style=flat-square&logo=github&logoColor=white)](https://github.com/nishanttcse/weather-app) |
-| **[Rockets (Deployment Service)](https://github.com/nishanttcse/rockets)** | A custom deployment service similar to Vercel, designed to streamline continuous integration and deployment workflows for web applications. | TypeScript, AWS S3, Redis, Express, System Design | [![GitHub](https://img.shields.io/badge/-Repo-blue?style=flat-square&logo=github&logoColor=white)](https://github.com/nishanttcse/rockets) | _No Live Demo Available_ |
-| **[E-Commerce Backend API](https://github.com/nishanttcse/e-commerce-backend-app)** | A robust backend API for an e-commerce platform, handling product management, user authentication, orders, and payment integration. | Node.js, Express, MongoDB, JWT | [![GitHub](https://img.shields.io/badge/-Repo-blue?style=flat-square&logo=github&logoColor=white)](https://github.com/nishanttcse/e-commerce-backend-app) | _No Live Demo Available_ |
-| **[Blogging Web Application](https://github.com/nishanttcse/blogging-web-app)** | A full-featured blogging platform allowing users to create, publish, and manage their blog posts with rich text editing capabilities. | React, Node.js, Express, MongoDB | [![GitHub](https://img.shields.io/badge/-Repo-blue?style=flat-square&logo=github&logoColor=white)](https://github.com/nishanttcse/blogging-web-app) | _No Live Demo Available_ |
-| **[MERN Stack Blog Project](https://github.com/nishanttcse/mern-stack-blog-project)** | A comprehensive blog application built with the MERN stack, featuring user authentication, post creation, comments, and real-time updates. | MongoDB, Express.js, React, Node.js | [![GitHub](https://img.shields.io/badge/-Repo-blue?style=flat-square&logo=github&logoColor=white)](https://github.com/nishanttcse/mern-stack-blog-project) | _No Live Demo Available_ |
-| **[Real-time Chat Application](https://github.com/nishanttcse/chat-app)** | A real-time chat application enabling instant messaging between users with support for private and group conversations. | Node.js, Express, Socket.IO, React | [![GitHub](https://img.shields.io/badge/-Repo-blue?style=flat-square&logo=github&logoColor=white)](https://github.com/nishanttcse/chat-app) | _No Live Demo Available_ |
-| **[Fullstack Todo Application](https://github.com/nishanttcse/fullstack-todo-app)** | A complete full-stack todo list application with user authentication, task creation, marking as complete, and deletion functionalities. | React, Node.js, Express, MongoDB | [![GitHub](https://img.shields.io/badge/-Repo-blue?style=flat-square&logo=github&logoColor=white)](https://github.com/nishanttcse/fullstack-todo-app) | _No Live Demo Available_ |
-| **[Simple Quiz Application](https://github.com/nishanttcse/simple-quiz-app)** | A basic interactive quiz application built with vanilla JavaScript, featuring multiple-choice questions and score tracking. | JavaScript, HTML, CSS | [![GitHub](https://img.shields.io/badge/-Repo-blue?style=flat-square&logo=github&logoColor=white)](https://github.com/nishanttcse/simple-quiz-app) | _No Live Demo Available_ |
-
-
----
 ## 🚀 Achievements
 
-* [cite_start]Completed 300+ DSA problems on LeetCode and HackerRank, enhancing Python and algorithmic skills. [cite: 40]
-* [cite_start]Earned Python Gold Badge on HackerRank, reducing code review time by 20%, improving team efficiency. [cite: 41]
-* [cite_start]Led Navrang Club socials, increasing event engagement by 70%, fostering a stronger community presence. [cite: 42]
-* [cite_start]Built an Instagram audience of 90K+ with 90% engagement growth through targeted content strategy. [cite: 43]
-* [cite_start]Recognized as Agentblazer Champion 2025 for excelling in Salesforce's AI Agentforce learning path. [cite: 44]
+* [cite_start]Completed 300+ DSA problems on LeetCode and HackerRank, enhancing Python and algorithmic skills[cite: 40].
+* [cite_start]Earned Python Gold Badge on HackerRank, reducing code review time by 20%, improving team efficiency[cite: 41].
+* [cite_start]Led Navrang Club socials, increasing event engagement by 70%, fostering a stronger community presence[cite: 42].
+* [cite_start]Built an Instagram audience of 90K+ with 90% engagement growth through targeted content strategy[cite: 43].
+* [cite_start]Recognized as Agentblazer Champion 2025 for excelling in Salesforce's AI Agentforce learning path[cite: 44].
 
 ---
 ## 📈 My GitHub Activity
@@ -171,11 +175,6 @@
 - [Optimizing React Performance with Memoization Techniques](https://dev.to/nishanttcse/optimizing-react-performance-with-memoization-techniques-1234) - A deep dive into `useMemo`, `useCallback`, and `React.memo`.
 - [Building a CI/CD Pipeline for Next.js Applications](https://dev.to/nishanttcse/building-ci-cd-pipeline-for-nextjs-5678) - Automating deployments and testing for Next.js projects.
 - [State Management Showdown: Redux vs Context API](https://dev.to/nishanttcse/state-management-showdown-9012) - A comparison to help you choose the right state management solution.
----
-## 💡 A Little About Me
-
-> "I once built a working application during a 12-hour flight journey ✈️💻 – proving that inspiration (and a good laptop battery!) can strike anywhere."
-
 ---
 ## 👋 Let's Connect!
 
