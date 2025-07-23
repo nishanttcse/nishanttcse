@@ -1,191 +1,126 @@
-
-<!-- Programmer GIF -->
-<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Nishant;Full+Stack+Developer;Open+Source+Enthusiast;Problem+Solver" alt="Typing SVG" />
-</h1>
-
-<p align="center">
-    Passionate about crafting robust and scalable web applications with a focus on delivering exceptional user experiences.
-</p>
-
----
-
-## 👋 About Me
-I'm Nishant, an aspiring Software Developer with a solid foundation in core computer science concepts like OOPs, Data Structures & Algorithms (with 300+ LeetCode problems solved), DBMS, Machine Learning, Operating Systems, and Software Engineering. I specialize in REST API development and full-stack engineering, leveraging technologies like Node.js, React.js, and JavaScript.
-
-"I once built a working application during a 12-hour flight journey ✈️💻 – proving that inspiration (and a good laptop battery!) can strike anywhere." 
-
----
-
-<h3 align="center">Connect with Me:</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/nishant-s-srivastav/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://twitter.com/nishanttcse" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
-  <a href="https://readdy.link/preview/dfb21e20-bbe9-4301-b55c-72338dbbae33/1093748" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio">
-  </a>
-  <a href="mailto:nishantgenius03@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-</p>
-
----
----
-## 💻 Technologies & Tools
-
-<p align="center">
-    A comprehensive overview of the programming languages, frameworks, libraries, and tools I frequently work with.
-</p>
-
-### 🚀 Programming Languages
-<p align="center">
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C">
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-</p>
-
-### 🌐 Web Development
-<p align="center">
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-    <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js">
-    <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
-    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
-    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
-</p>
-
-### 🗄️ Databases
-<p align="center">
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-    <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
-</p>
-
-### 🧠 AI/ML & Data Tools
-<p align="center">
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
-    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-    <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API">
-    <img src="https://img.shields.io/badge/LLM-FF6C37?style=for-the-badge" alt="LLM">
-</p>
-
-### 🛠️ Development Tools
-<p align="center">
-    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code">
-    <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook">
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman">
-</p>
-
----
-## 🌟 Highlighted Projects
-
-<p align="center">
-    A selection of my recent and most impactful projects. Feel free to explore the code and live demos!
-</p>
-
-| Project Title | Description & Key Features | Technologies Used | Live Demo | Source Code |
-| :------------ | :------------------------- | :---------------- | :-------- | :---------- |
-| **[ReWear-Community-Clothing-Exchange](https://github.com/nishanttcse/ReWear-Community-Clothing-Exchange)** | [cite_start]Engineered a full-stack platform facilitating 1,000+ clothing swaps via direct exchange and a point-based system[cite: 16]. [cite_start]Implemented secure user authentication handling up to 500 daily active users[cite: 17]. [cite_start]Designed a responsive landing page reducing bounce rate by 35%[cite: 18]. [cite_start]Improved listing precision and item match accuracy by 40% with 6+ metadata fields[cite: 19]. | React, Node.js, Express, MongoDB, Authentication | [![GitHub](https://img.shields.io/badge/-Repo-blue?style=flat-square&logo=github&logoColor=white)](https://github.com/nishanttcse/ReWear-Community-Clothing-Exchange) | _No Live Demo Available_ |
-| **[Elderly CareAI-AI-Powered Elderly Assistance System](https://github.com/nishanttcse/Elderly-CareAI-AI-Powered-Elderly-Assistance-System)** | [cite_start]Innovated an AI system supporting 500+ users, reducing response time by 30% and improving caregiver efficiency[cite: 21]. [cite_start]Integrated AI agents to track vitals and detect anomalies, reducing emergency response time by 30%[cite: 22]. [cite_start]Designed an SQLite database for real-time health tracking with <0.5s query latency [cite: 23] [cite_start]and deployed predictive analytics achieving 90% early detection accuracy for potential health issues[cite: 24]. | AI, SQLite, Predictive Analytics | [![GitHub](https://img.shields.io/badge/-Repo-blue?style=flat-square&logo=github&logoColor=white)](https://github.com/nishanttcse/Elderly-CareAI-AI-Powered-Elderly-Assistance-System) | _No Live Demo Available_ |
-| **[AI Code Reviewer](https://github.com/nishanttcse/AI-Code-Reviewer)** | [cite_start]Developed an ML-based bug detection system with 85% accuracy, saving 10 hours/week in reviews[cite: 25]. [cite_start]Reduced codebase bugs by 15% via NLP suggestions, boosting reliability and review efficiency[cite: 26]. [cite_start]NLP static analysis further reduces code defects by 15% through automated pattern recognition [cite: 27] [cite_start]and expanded adoption by 40% across 5+ languages (Python, Java, C++, JavaScript, Ruby)[cite: 28]. | ML, NLP, Python, Java, C++, JavaScript, Ruby | [![GitHub](https://img.shields.io/badge/-Repo-blue?style=flat-square&logo=github&logoColor=white)](https://github.com/nishanttcse/AI-Code-Reviewer) | _No Live Demo Available_ |
-| **[Personalized Content Dashboard](https://github.com/nishanttcse/Personalized-Content-Dashboard)** | A dynamic dashboard for aggregating personalized content from various sources, enhancing user engagement and content discovery. | React, Next.js, Redux Toolkit, Tailwind CSS | [![Live Demo](https://img.shields.io/badge/-Demo-green?style=flat-square&logo=vercel&logoColor=white)](https://personalized-content-dashboard.vercel.app) | [![GitHub](https://img.shields.io/badge/-Repo-blue?style=flat-square&logo=github&logoColor=white)](https://github.com/nishanttcse/Personalized-Content-Dashboard) |
-| **[E-Commerce Platform](https://github.com/nishanttcse/ecommerce-platform)** | Full-featured online shopping experience. | React, Node.js, Firebase | [![Live Demo](https://img.shields.io/badge/-Demo-green?style=flat-square&logo=vercel&logoColor=white)](https://ecommerce-demo-nishant.vercel.app) | [![GitHub](https://img.shields.io/badge/-Repo-blue?style=flat-square&logo=github&logoColor=white)](https://github.com/nishanttcse/ecommerce-platform) |
-| **[Weather Forecast App](https://github.com/nishanttcse/weather-app)** | Real-time weather with 5-day forecast. | JavaScript, Weather API | [![Live Demo](https://img.shields.io/badge/-Demo-green?style=flat-square&logo=vercel&logoColor=white)](https://weather-app-nishant.vercel.app) | [![GitHub](https://img.shields.io/badge/-Repo-blue?style=flat-square&logo=github&logoColor=white)](https://github.com/nishanttcse/weather-app) |
-| **[Blogging Web Application](https://github.com/nishanttcse/blogging-web-app)** | A full-featured blogging platform allowing users to create, publish, and manage their blog posts with rich text editing capabilities. | React, Node.js, Express, MongoDB | [![GitHub](https://img.shields.io/badge/-Repo-blue?style=flat-square&logo=github&logoColor=white)](https://github.com/nishanttcse/blogging-web-app) | _No Live Demo Available_ |
-
-
----
-## 🏆 Certifications
-
-* **AWS Cloud Practitioner Essentials** - Amazon Web Services
-* **Career Essentials in Generative AI by Microsoft and LinkedIn** - Microsoft 
-* **Salesforce Agentblazer Champion** - Salesforce Trailhead 
-* **Software Engineering Job Simulation** - Accenture
-* **Generative AI: The Evolution of Thoughtful Online Search** - LinkedIn 
-* **Python, HTML, JavaScript, CSS, and Bootstrap Certification** - Infosys Springboard 
-
----
-## 🚀 Achievements
-
-* [cite_start]Completed 300+ DSA problems on LeetCode and HackerRank, enhancing Python and algorithmic skills[cite: 40].
-* [cite_start]Earned Python Gold Badge on HackerRank, reducing code review time by 20%, improving team efficiency[cite: 41].
-* [cite_start]Led Navrang Club socials, increasing event engagement by 70%, fostering a stronger community presence[cite: 42].
-* [cite_start]Built an Instagram audience of 90K+ with 90% engagement growth through targeted content strategy[cite: 43].
-* [cite_start]Recognized as Agentblazer Champion 2025 for excelling in Salesforce's AI Agentforce learning path[cite: 44].
-
----
-## 📈 My GitHub Activity
-
-<p align="center">
-    Showcasing my coding journey and contributions on GitHub.
-</p>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nishanttcse&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%">
-  ![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+<!-- Dynamic Banner -->
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHd5dGp3a2p3bGZ2ZzV6eG4xMXd6dHp5bGJ4b3lwM3l4d3Q4cDl4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif" width="100%" alt="coding banner">
+
+<!-- Title -->
+<h1> Hi 👋, I'm Nishant Srivastava</h1>
+<h3>A passionate Full-Stack Developer from India</h3>
+
+<!-- Animated Typing -->
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=300%2B+LeetCode+Problems;REST+API+Specialist;AI%2FML+Enthusiast;Full-Stack+Developer" alt="typing-svg">
+</p>
+
+---
+
+### 🚀 Summary
+<p>
+Aspiring Software Developer with strong foundation in<br> 
+OOPs • DSA (300+ LeetCode) • DBMS • Machine Learning • OS • REST APIs<br>
+Full-stack expertise in Node.js • React.js • JavaScript
+</p>
+
+---
+
+### 💻 Projects
+
+#### ReWear Community Clothing Exchange
+<p>
+• Engineered full-stack platform for 1,000+ clothing swaps<br>
+• Implemented secure authentication for 500+ daily users<br>
+• Boosted item match accuracy by 40% with metadata system<br>
+<strong>Tech:</strong> 
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React"> 
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB">
+</p>
+
+#### Elderly CareAI - AI-Powered Assistance
+<p>
+• Reduced emergency response time by 30% with AI monitoring<br>
+• Implemented real-time health tracking with SQLite (<0.5s latency)<br>
+• Achieved 90% accuracy in health issue prediction<br>
+<strong>Tech:</strong> 
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python"> 
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" alt="SQLite">
+</p>
+
+#### AI Code Reviewer
+<p>
+• Developed ML-based bug detection with 85% accuracy<br>
+• Reduced codebase bugs by 15% via NLP suggestions<br>
+• Expanded to 5+ languages (Python, Java, C++, JavaScript, Ruby)<br>
+<strong>Tech:</strong> 
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python"> 
+  <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white" alt="OpenAI">
+  <img src="https://img.shields.io/badge/NLP-8A2BE2?logo=natural-language-processing&logoColor=white" alt="NLP">
+</p>
+
+---
+
+### 🛠️ Tech Stack
+#### Languages
+<img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" alt="C++">
+<img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" alt="Java">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript">
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
+
+#### Web & Databases
+<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React">
+<img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" alt="Node.js">
+<img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" alt="Express">
+<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL">
+
+#### AI/ML
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" alt="TensorFlow">
+<img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" alt="Pandas">
+<img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white" alt="OpenAI">
+
+---
+
+### 📊 GitHub Stats
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nishantgenius&show_icons=true&theme=radical&count_private=true&include_all_commits=true">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishantgenius&layout=compact&theme=radical&langs_count=8">
+<br>
+<img src="https://streak-stats.demolab.com?user=nishantgenius&theme=radical" alt="streak">
+
+---
+
+### 🏆 Achievements
+<p>
+• 300+ DSA problems on <strong>LeetCode/HackerRank</strong><br>
+• Python Gold Badge on HackerRank<br>
+• Salesforce Agentblazer Champion 2025<br>
+• 90K+ Instagram audience with 90% engagement growth<br>
+• Led Navrang Club events with 70% engagement boost
+</p>
+
+---
+
+### 📜 Certifications
+<p>
+AWS Cloud Practitioner • Generative AI (Microsoft)<br>
+Salesforce Trailhead • Accenture SE Simulation<br>
+Infosys Full-Stack Certification
+</p>
+
+---
+
+### 🤝 Let's Connect
+<p>
+  <a href="mailto:nishantgenius03@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/nishantgenius">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
+
+<!-- Snake Animation -->
+<img src="https://raw.githubusercontent.com/nishantgenius/nishantgenius/output/github-contribution-grid-snake.svg" alt="snake">
 </div>
-
----
-## 🏆 My GitHub Achievements
-
-<p align="center">
-  Unlocking coding milestones one commit at a time!
-</p>
-<p align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=nishanttcse&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies">
-</p>
-
----
-## 🌱 What I'm Currently Exploring
-
-- 🔍 Exploring advanced **TypeScript** patterns
-- ⚡ Building scalable **serverless architectures** on AWS
-- 🤖 Implementing **AI/ML** concepts in web applications
-- 🌐 Actively contributing to **open source projects**
-- 🚀 Diving deeper into **WebAssembly** for performance optimization
-
----
-## 📝 My Recent Insights & Blog Posts
-
-- [Optimizing React Performance with Memoization Techniques](https://dev.to/nishanttcse/optimizing-react-performance-with-memoization-techniques-1234) - A deep dive into `useMemo`, `useCallback`, and `React.memo`.
-- [Building a CI/CD Pipeline for Next.js Applications](https://dev.to/nishanttcse/building-ci-cd-pipeline-for-nextjs-5678) - Automating deployments and testing for Next.js projects.
-- [State Management Showdown: Redux vs Context API](https://dev.to/nishanttcse/state-management-showdown-9012) - A comparison to help you choose the right state management solution.
----
-## 👋 Let's Connect!
-
-<p align="center">
-    Feel free to reach out if you'd like to collaborate on a project, discuss tech, or just say hello!
-</p>
-
-<p align="center">
-    <a href="mailto:nishantgenius03@gmail.com">
-        <img src="https://img.shields.io/badge/Say_Hello!-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Say Hello!">
-    </a>
-    <a href="https://www.linkedin.com/in/nishant-s-srivastav/" target="_blank">
-        <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn">
-    </a>
-</p>
-
----
-[![](https://visitcount.itsvg.in/api?id=alamimran613&icon=1&color=4)](https://visitcount.itsvg.in)
-
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nishanttcse&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
-</p>
