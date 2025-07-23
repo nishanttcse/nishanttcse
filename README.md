@@ -3,125 +3,69 @@
 <!-- Dynamic Banner -->
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHd5dGp3a2p3bGZ2ZzV6eG4xMXd6dHp5bGJ4b3lwM3l4d3Q4cDl4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif" width="60%" alt="coding banner">
 
-<!-- Title -->
-<h1> Hi 👋, I'm Nishant Srivastava</h1>
-<h3>A passionate Full-Stack Developer from India</h3>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=nishanttcse.nishanttcse" />
 
-<!-- Animated Typing -->
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=300%2B+LeetCode+Problems;REST+API+Specialist;AI%2FML+Enthusiast;Full-Stack+Developer" alt="typing-svg">
-</p>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nishant+Srivastava!;" />
+</h1>
 
----
+<h3 align="center">A passionate Full-Stack Developer from India 🇮🇳</h3>
 
-### 🚀 Summary
-<p>
-Aspiring Software Developer with strong foundation in<br> 
-OOPs • DSA (300+ LeetCode) • DBMS • Machine Learning • OS • REST APIs<br>
-Full-stack expertise in Node.js • React.js • JavaScript
-</p>
+<br/>
 
----
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=nishanttcse&theme=radical&column=7&margin-w=15&margin-h=15&no-frame=true" alt="nishanttcse" />
-  </a>
-</p>
-
----
-
-### 💻 Projects
-
-#### ReWear Community Clothing Exchange
-<p>
-• Engineered full-stack platform for 1,000+ clothing swaps<br>
-• Implemented secure authentication for 500+ daily users<br>
-• Boosted item match accuracy by 40% with metadata system<br>
-<strong>Tech:</strong> 
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React"> 
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB">
-</p>
-
-#### Elderly CareAI - AI-Powered Assistance
-<p>
-• Reduced emergency response time by 30% with AI monitoring<br>
-• Implemented real-time health tracking with SQLite (<0.5s latency)<br>
-• Achieved 90% accuracy in health issue prediction<br>
-<strong>Tech:</strong> 
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python"> 
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" alt="SQLite">
-</p>
-
-#### AI Code Reviewer
-<p>
-• Developed ML-based bug detection with 85% accuracy<br>
-• Reduced codebase bugs by 15% via NLP suggestions<br>
-• Expanded to 5+ languages (Python, Java, C++, JavaScript, Ruby)<br>
-<strong>Tech:</strong> 
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python"> 
-  <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white" alt="OpenAI">
-  <img src="https://img.shields.io/badge/NLP-8A2BE2?logo=natural-language-processing&logoColor=white" alt="NLP">
-</p>
-
----
-
-### 🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,python,tensorflow,aws,git,github,cpp,java,html,css,bootstrap" />
-</p>
-
----
-
-### 📊 GitHub Stats
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nishanttcse&show_icons=true&theme=radical&count_private=true&include_all_commits=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishanttcse&layout=compact&theme=radical&langs_count=8">
-  <br>
-  <img src="https://streak-stats.demolab.com?user=nishanttcse&theme=radical" alt="streak">
+ 
+ 🔭 I'm currently building **AI-powered applications**
+ 
+ 🌱 I'm currently learning **Docker, AWS, and Advanced ML**
+
+💬 Ask me about **Node.js, React, REST APIs or AI/ML**
+
+⚡ Fun fact: **Built an Instagram audience of 90K+ followers!**
+
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:nishantgenius03@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/nishant-s-srivastav" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://github.com/nishanttcse" target="_blank">
+     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
+  </a>
 </div>
 
----
+ <hr/>
+ 
+<h2 align="center">⚒️ Tech Stack ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,python,tensorflow,aws,git,github,cpp,java,html,css,bootstrap" />
+</div>
 
-### 🏅 Achievements
-<p align="center">
-  • 300+ DSA problems on <strong>LeetCode/HackerRank</strong><br>
-  • Python Gold Badge on HackerRank<br>
-  • Salesforce Agentblazer Champion 2025<br>
-  • 90K+ Instagram audience with 90% engagement growth<br>
-  • Led Navrang Club events with 70% engagement boost
-</p>
+<br/>
+<hr/>
 
----
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/nishanttcse/nishanttcse/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
-### 📜 Certifications
-<p align="center">
-  AWS Cloud Practitioner • Generative AI (Microsoft)<br>
-  Salesforce Trailhead • Accenture SE Simulation<br>
-  Infosys Full-Stack Certification
-</p>
+<hr/>
 
----
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://streak-stats.demolab.com?user=nishanttcse&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=nishanttcse&show_icons=true&theme=react&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishanttcse&layout=compact&theme=react&border_radius=10" alt="top langs" />
+</div>
 
-### 🤝 Let's Connect
-<p align="center">
-  <a href="mailto:nishantgenius03@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://www.linkedin.com/in/nishant-s-srivastav/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/nishanttcse">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://twitter.com/nishanttcse">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" alt="Twitter">
-  </a>
-</p>
-
-<!-- Snake Animation -->
-<img src="https://raw.githubusercontent.com/nishanttcse/nishanttcse/output/github-contribution-grid-snake.svg" alt="snake">
+<br/><br/>
 </div>
