@@ -192,14 +192,13 @@
 </p>
 
 ---
-<div align="center">
-  <h3>Visitor Count</h3>
-  <img src="https://profile-counter.glitch.me/nishanttcse/count.svg" alt="Visitor Count">
-</div>
+[![](https://visitcount.itsvg.in/api?id=alamimran613&icon=1&color=4)](https://visitcount.itsvg.in)
 
-<p align="center">
-  <img src="https://github.com/nishanttcse/nishanttcse/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation">
-</p>
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nishanttcse&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
