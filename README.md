@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Dynamic Banner -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHd5dGp3a2p3bGZ2ZzV6eG4xMXd6dHp5bGJ4b3lwM3l4d3Q4cDl4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif" width="100%" alt="coding banner">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHd5dGp3a2p3bGZ2ZzV6eG4xMXd6dHp5bGJ4b3lwM3l4d3Q4cDl4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif" width="60%" alt="coding banner">
 
 <!-- Title -->
 <h1> Hi 👋, I'm Nishant Srivastava</h1>
@@ -81,10 +81,10 @@ Full-stack expertise in Node.js • React.js • JavaScript
 ---
 
 ### 📊 GitHub Stats
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nishantgenius&show_icons=true&theme=radical&count_private=true&include_all_commits=true">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishantgenius&layout=compact&theme=radical&langs_count=8">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nishanttcse&show_icons=true&theme=radical&count_private=true&include_all_commits=true">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishanttcse&layout=compact&theme=radical&langs_count=8">
 <br>
-<img src="https://streak-stats.demolab.com?user=nishantgenius&theme=radical" alt="streak">
+<img src="https://streak-stats.demolab.com?user=nishanttcse&theme=radical" alt="streak">
 
 ---
 
@@ -113,14 +113,14 @@ Infosys Full-Stack Certification
   <a href="mailto:nishantgenius03@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/nishant-s-srivastav/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://github.com/nishantgenius">
+  <a href="https://github.com/nishanttcse">
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
 
 <!-- Snake Animation -->
-<img src="https://raw.githubusercontent.com/nishantgenius/nishantgenius/output/github-contribution-grid-snake.svg" alt="snake">
+<img src="https://raw.githubusercontent.com/nishanttcse/nishanttcse/output/github-contribution-grid-snake.svg" alt="snake">
 </div>
