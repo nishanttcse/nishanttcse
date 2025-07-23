@@ -13,10 +13,9 @@
 ---
 
 ## 👋 About Me
+I'm Nishant, an aspiring Software Developer with a solid foundation in core computer science concepts like OOPs, Data Structures & Algorithms (with 300+ LeetCode problems solved), DBMS, Machine Learning, Operating Systems, and Software Engineering. I specialize in REST API development and full-stack engineering, leveraging technologies like Node.js, React.js, and JavaScript.
 
-[cite_start]I'm Nishant, an aspiring Software Developer with a solid foundation in core computer science concepts like OOPs, Data Structures & Algorithms (with 300+ LeetCode problems solved), DBMS, Machine Learning, Operating Systems, and Software Engineering[cite: 4]. [cite_start]I specialize in REST API development and full-stack engineering, leveraging technologies like Node.js, React.js, and JavaScript[cite: 5].
-
-> [cite_start]"I once built a working application during a 12-hour flight journey ✈️💻 – proving that inspiration (and a good laptop battery!) can strike anywhere." [cite: 44]
+"I once built a working application during a 12-hour flight journey ✈️💻 – proving that inspiration (and a good laptop battery!) can strike anywhere." 
 
 ---
 
@@ -37,23 +36,6 @@
 </p>
 
 ---
-## 🎓 Education
-
-* [cite_start]**B.Tech in Computer Science and Engineering** [cite: 7, 8]
-    * Pranveer Singh Institute of Technology | [cite_start]Kanpur, Uttar Pradesh [cite: 7]
-    * [cite_start]Score: 77.07% [cite: 8]
-    * [cite_start]*Expected Graduation: 2026* [cite: 13]
-
-* [cite_start]**Intermediate (12th)** [cite: 9]
-    * Divine Public School | [cite_start]Gorakhpur, U.P [cite: 9]
-    * [cite_start]Score: 83% [cite: 9]
-    * [cite_start]*Graduated: 2021* [cite: 14]
-
-* [cite_start]**High School (10th)** [cite: 10]
-    * Divine Public School | [cite_start]Gorakhpur, U.P [cite: 10]
-    * [cite_start]Score: 88.8% [cite: 10]
-    * [cite_start]*Graduated: 2019* [cite: 14]
-
 ---
 ## 💻 Technologies & Tools
 
@@ -127,12 +109,12 @@
 ---
 ## 🏆 Certifications
 
-* [cite_start]**AWS Cloud Practitioner Essentials** - Amazon Web Services [cite: 34]
-* [cite_start]**Career Essentials in Generative AI by Microsoft and LinkedIn** - Microsoft [cite: 35]
-* [cite_start]**Salesforce Agentblazer Champion** - Salesforce Trailhead [cite: 35]
-* [cite_start]**Software Engineering Job Simulation** - Accenture [cite: 36]
-* [cite_start]**Generative AI: The Evolution of Thoughtful Online Search** - LinkedIn [cite: 37]
-* [cite_start]**Python, HTML, JavaScript, CSS, and Bootstrap Certification** - Infosys Springboard [cite: 37]
+* **AWS Cloud Practitioner Essentials** - Amazon Web Services
+* **Career Essentials in Generative AI by Microsoft and LinkedIn** - Microsoft 
+* **Salesforce Agentblazer Champion** - Salesforce Trailhead 
+* **Software Engineering Job Simulation** - Accenture
+* **Generative AI: The Evolution of Thoughtful Online Search** - LinkedIn 
+* **Python, HTML, JavaScript, CSS, and Bootstrap Certification** - Infosys Springboard 
 
 ---
 ## 🚀 Achievements
