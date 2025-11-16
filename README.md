@@ -141,4 +141,4 @@ AboutMe = {
   motto: "Write clean code, build meaningful products, grow every day ✨"
 };
 💖 Thanks for Visiting!
-<p align="center"> <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="600"> </p>**
+<p align="center"> <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="600"> </p>
