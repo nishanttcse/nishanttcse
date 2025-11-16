@@ -104,38 +104,43 @@
 
 ---
 
-# 🧠 Developer Personality
+## 🧠 Developer Personality
 
-```javascript
-const AboutMe = {
-  passion: "Building scalable apps and solving real-world problems using clean, optimized engineering.",
+<div style="background:#0d1117; padding:20px; border-radius:12px; color:#e6edf3; font-family:Consolas, monospace; border:1px solid #30363d;">
 
-  strengths: [
-    "C++, Java, Python, JavaScript",
-    "MERN Stack (React, Node.js, Express, MongoDB)",
-    "AI/ML (TensorFlow, NLP, LLMs)",
-    "MySQL, MongoDB, SQLite",
-    "AWS Cloud"
-  ],
+<span style="color:#ff7b72;">const</span> AboutMe = {<br><br>
 
-  experience: "Web Developer Intern @ Future Intern — optimized UI, built authentication, developed full-stack modules.",
+&nbsp;&nbsp;<span style="color:#a5d6ff;">passion</span>: "Building scalable apps and solving real-world problems using clean, optimized engineering.",<br><br>
 
-  majorProjects: [
-    "LumiPsyche — AI Therapist",
-    "ReWear — Community Clothing Exchange Platform",
-    "ElderlyCareAI — Real-time Health Monitoring System"
-  ],
+&nbsp;&nbsp;<span style="color:#a5d6ff;">strengths</span>: [<br>
+&nbsp;&nbsp;&nbsp;&nbsp;"C++, Java, Python, JavaScript",<br>
+&nbsp;&nbsp;&nbsp;&nbsp;"MERN Stack (React, Node.js, Express, MongoDB)",<br>
+&nbsp;&nbsp;&nbsp;&nbsp;"AI/ML (TensorFlow, NLP, LLMs)",<br>
+&nbsp;&nbsp;&nbsp;&nbsp;"MySQL, MongoDB, SQLite",<br>
+&nbsp;&nbsp;&nbsp;&nbsp;"AWS Cloud"<br>
+&nbsp;&nbsp;],<br><br>
 
-  achievements: [
-    "300+ DSA Problems",
-    "Python Gold Badge — HackerRank",
-    "90K+ Instagram Community",
-    "Navrang Club Engagement +70%"
-  ],
+&nbsp;&nbsp;<span style="color:#a5d6ff;">experience</span>: "Web Developer Intern @ Future Intern — optimized UI, built authentication, developed full-stack modules.",<br><br>
 
-  mindset: "Always improving. Build → Break → Learn → Repeat 🚀",
-  motto: "Write clean code, build meaningful products, grow daily ✨"
+&nbsp;&nbsp;<span style="color:#a5d6ff;">majorProjects</span>: [<br>
+&nbsp;&nbsp;&nbsp;&nbsp;"LumiPsyche — AI Therapist",<br>
+&nbsp;&nbsp;&nbsp;&nbsp;"ReWear — Community Clothing Exchange Platform",<br>
+&nbsp;&nbsp;&nbsp;&nbsp;"ElderlyCareAI — Real-time Health Monitoring System"<br>
+&nbsp;&nbsp;],<br><br>
+
+&nbsp;&nbsp;<span style="color:#a5d6ff;">achievements</span>: [<br>
+&nbsp;&nbsp;&nbsp;&nbsp;"300+ DSA Problems",<br>
+&nbsp;&nbsp;&nbsp;&nbsp;"Python Gold Badge — HackerRank",<br>
+&nbsp;&nbsp;&nbsp;&nbsp;"90K+ Instagram Community",<br>
+&nbsp;&nbsp;&nbsp;&nbsp;"Navrang Club Engagement +70%"<br>
+&nbsp;&nbsp;],<br><br>
+
+&nbsp;&nbsp;<span style="color:#a5d6ff;">mindset</span>: "Always improving. Build → Break → Learn → Repeat 🚀",<br>
+&nbsp;&nbsp;<span style="color:#a5d6ff;">motto</span>: "Write clean code, build meaningful products, grow daily ✨"<br>
+
 };
+</div>
+
 📊 GitHub Stats & Activity
 <div align="center">
 ⭐ GitHub Stats
@@ -147,6 +152,8 @@ const AboutMe = {
 🏆 GitHub Trophy
 <img src="https://github-profile-trophy.vercel.app/?username=nishanttcse&theme=tokyonight&margin-w=15"/> </div>
 📈 GitHub Activity Graph
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=nishanttcse&theme=react-dark&hide_border=true"/> </div>
-🤍 Thanks for Visiting!
-<p align="center"> <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="600"> </p> ```
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=nishanttcse&theme=react-dark&hide_border=true"/> 
+</div>
+
+# 🤍 Thanks for Visiting!
+<p align="center"> <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="600"> </p> 
