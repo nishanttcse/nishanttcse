@@ -29,7 +29,7 @@
 </div>
 
 ---
-
+```js
 ## 🧑‍💻 About Me
 
 - 🔭 **Currently working on**: LumiPsyche (AI Therapist), ElderlyCareAI, MERN Stack Apps  
