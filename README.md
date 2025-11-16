@@ -29,7 +29,7 @@
 </div>
 
 ---
-```js
+
 ## 🧑‍💻 About Me
 
 - 🔭 **Currently working on**: LumiPsyche (AI Therapist), ElderlyCareAI, MERN Stack Apps  
@@ -109,7 +109,7 @@
 
 ## 🧠 Developer Personality
 
-```js
+
 AboutMe = {
   passion: "Building scalable applications and solving real-world problems through clean, optimized engineering.",
 
