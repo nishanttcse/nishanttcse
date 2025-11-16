@@ -141,19 +141,24 @@
 };
 </div>
 
-📊 GitHub Stats & Activity
+## 📊 GitHub Stats & Activity
 <div align="center">
-⭐ GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=nishanttcse&show_icons=true&theme=tokyonight" height="170"/>
-⭐ GitHub Streaks
-<img src="https://streak-stats.demolab.com?user=nishanttcse&theme=tokyonight" height="170"/>
-⭐ Top Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishanttcse&layout=compact&theme=tokyonight" height="170"/>
-🏆 GitHub Trophy
-<img src="https://github-profile-trophy.vercel.app/?username=nishanttcse&theme=tokyonight&margin-w=15"/> </div>
-📈 GitHub Activity Graph
+   
+## ⭐ GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=nishanttcse&show_icons=true&theme=tokyonight" height="170"/><br>
+
+## ⭐ GitHub Streaks
+<img src="https://streak-stats.demolab.com?user=nishanttcse&theme=tokyonight" height="170"/><br>
+
+## ⭐ Top Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishanttcse&layout=compact&theme=tokyonight" height="170"/><br>
+
+## 🏆 GitHub Trophy
+<img src="https://github-profile-trophy.vercel.app/?username=nishanttcse&theme=tokyonight&margin-w=15"/> </div><br>
+
+## 📈 GitHub Activity Graph
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=nishanttcse&theme=react-dark&hide_border=true"/> 
-</div>
+</div><br>
 
 # 🤍 Thanks for Visiting!
 <p align="center"> <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="600"> </p> 
