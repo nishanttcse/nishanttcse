@@ -106,7 +106,7 @@
 
 # 🧠 Developer Personality
 
-```js
+
 AboutMe = {
   passion: "Building scalable apps and solving real-world problems using clean, optimized engineering.",
 
@@ -151,4 +151,4 @@ AboutMe = {
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=nishanttcse&theme=react-dark&hide_border=true"/> </div>
 
 🤍 Thanks for Visiting!
-<p align="center"> <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="600"> </p> ```
+<p align="center"> <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="600"> </p> 
