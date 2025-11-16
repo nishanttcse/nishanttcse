@@ -106,7 +106,7 @@
 
 # 🧠 Developer Personality
 
-
+```js
 AboutMe = {
   passion: "Building scalable apps and solving real-world problems using clean, optimized engineering.",
 
@@ -135,9 +135,9 @@ AboutMe = {
 
   mindset: "Always improving. Build → Break → Learn → Repeat 🚀",
   motto: "Write clean code, build meaningful products, grow daily ✨"
-};
+};```
 
-📊 GitHub Stats & Activity
+# 📊 GitHub Stats & Activity
 <div align="center">
 ⭐ GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=nishanttcse&show_icons=true&theme=tokyonight" height="170"/>
@@ -150,5 +150,6 @@ AboutMe = {
 📈 GitHub Activity Graph
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=nishanttcse&theme=react-dark&hide_border=true"/> </div>
 
-🤍 Thanks for Visiting!
+
+# 🤍 Thanks for Visiting!
 <p align="center"> <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="600"> </p> 
