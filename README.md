@@ -1,35 +1,144 @@
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="25%">
+<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="25%">
+
+<br><br><br>
+
 <div align="center">
+   <img src="https://i.ibb.co/xz0f62x/hero-banner.png" height="330"/>
+</div>
 
-<!-- Dynamic Banner -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHd5dGp3a2p3bGZ2ZzV6eG4xMXd6dHp5bGJ4b3lwM3l4d3Q4cDl4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif" width="60%" alt="coding banner">
+<h1 align="center"> <samp>&gt; Hey There!, I am <b>Nishant Srivastava</b> </samp> </h1>
 
-# 💫 About Me:
-🔭 I'm currently building AI-powered applications<br><br>🌱 I'm currently learning Docker, AWS, and Advanced ML<br><br>💬 Ask me about Node.js, React, REST APIs or AI/ML<br><br>⚡ Fun fact: Built an Instagram audience of 90K+ followers!
+<h2 align="center">
+<samp>
+<a href="https://www.linkedin.com/in/nishant-s-srivastav/">「 Connect with me 」</a>  
+<br>
+「 Aspiring Software Developer | AI/ML Enthusiast | MERN Developer 」
+</samp>
+</h2>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nishant-s-srivastav/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/31077050) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nishantgenius03@gmail.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nishanttcse&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=nishanttcse&theme=rose_pine&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nishanttcse&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=nishanttcse&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=nishanttcse&limit=5&theme=rose_pine&combine_all_yearly_contributions=true)
+<p align="center">
+   <img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" width="100%">
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=nishanttcse&icon=0&color=8)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/coff.ee/randomnish) 
+<div align="center">
+<a href="https://www.linkedin.com/in/nishant-s-srivastav/"><img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=000000"/></a>
+<a href="mailto:nishantgenius03@gmail.com"><img src="https://img.shields.io/badge/Gmail-ffffff?style=for-the-badge&logo=gmail&logoColor=000000"/></a>
+</div>
 
+---
+
+## 🧑‍💻 About Me
+
+- 🔭 **Currently working on**: LumiPsyche (AI Therapist), ElderlyCareAI, MERN Stack Apps  
+- 🌱 **Learning**: Machine Learning, AWS Cloud, System Design  
+- 💬 **Ask me about**: DSA, Python, MERN Stack, AI & ML  
+- 🚀 **Open for**: SDE Internships • AI/ML Roles • Open Source  
+- 📫 **Reach me**: Via links above 👆  
+
+---
+
+## 🛠 Skills & Tech Stack
+
+<div align="center">
+<h3>Technologies I work with to build scalable, modern and smart applications</h3>
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="96"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="45" height="45"><br>Python</td>
+<td align="center" width="96"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="45" height="45"><br>JavaScript</td>
+<td align="center" width="96"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="45" height="45"><br>C++</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=react" width="45"><br>React</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" width="45"><br>Node.js</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=mongodb" width="45"><br>MongoDB</td>
+</tr>
+
+<tr>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=nextjs" width="45"><br>Next.js</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=express" width="45"><br>Express</td>
+<td align="center" width="96"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="45"><br>MySQL</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=tailwind" width="45"><br>Tailwind</td>
+<td align="center" width="96"><img src="https://techstack-generator.vercel.app/aws-icon.svg" width="45"><br>AWS</td>
+<td align="center" width="96"><img src="https://techstack-generator.vercel.app/docker-icon.svg" width="45"><br>Docker</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Projects
+
+### ⭐ LumiPsyche – AI Therapist  
+- NLP-powered mental health assistant  
+- Sentiment analysis to detect emotions  
+- Provides supportive conversational responses  
+
+### ⭐ ReWear – Clothing Exchange Platform  
+- Facilitated **1,000+ clothing swaps**  
+- Authentication system with 500+ daily users  
+- MERN full-stack system  
+
+### ⭐ ElderlyCareAI – Real-Time Health Monitoring  
+- AI agents detect anomalies in health vitals  
+- <0.5s query latency using SQLite  
+- Reduced emergency detection time by 30%  
+
+---
+
+## 🏆 Achievements
+
+- Completed **300+ DSA problems** on LeetCode & HackerRank  
+- Earned **Python Gold Badge** on HackerRank  
+- Built an Instagram community of **90K+ followers**  
+- Led Navrang Club socials → **70% engagement increase**  
+
+---
+
+## 📜 Certifications
+
+- AWS Cloud Practitioner Essentials  
+- Career Essentials in Generative AI (Microsoft + LinkedIn)  
+- Salesforce Agentblazer Champion  
+- Accenture Software Engineering Job Simulation  
+- Agile Software Development (LinkedIn Learning)  
+- Infosys Springboard – Python, HTML, JS, CSS, Bootstrap  
+
+---
+
+## 🧠 Developer Personality
+
+```js
+AboutMe = {
+  passion: "Building scalable applications and solving real-world problems through clean, optimized engineering.",
+
+  strengths: [
+    "C++, Java, Python, JavaScript",
+    "MERN Stack (React, Node.js, Express, MongoDB)",
+    "AI/ML (TensorFlow, NLP, LLMs)",
+    "MySQL, MongoDB, SQLite",
+    "Cloud Foundations (AWS)"
+  ],
+
+  experience: "Web Developer Intern @ Future Intern — built full-stack modules, enhanced UI performance, implemented secure auth.",
+
+  majorProjects: [
+    "LumiPsyche – NLP-powered AI Therapist",
+    "ReWear – Community Clothing Exchange Platform",
+    "ElderlyCareAI – Real-time health monitoring system"
+  ],
+
+  achievements: [
+    "300+ DSA Problems",
+    "Python Gold Badge – HackerRank",
+    "90K+ Instagram Community",
+    "Navrang Club: 70% engagement boost"
+  ],
+
+  mindset: "Always curious. Always improving. Build → Break → Learn → Repeat 🚀",
   
+  motto: "Write clean code, build meaningful products, grow every day ✨"
+};
+💖 Thanks for Visiting!
+<p align="center"> <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="600"> </p>**
