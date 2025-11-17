@@ -6,7 +6,7 @@
 
 <!-- Hero Banner -->
 <div align="center">
-   <img src="https://i.ibb.co/xz0f62x/hero-banner.png" height="330"/>
+   <img src="https://img.freepik.com/premium-vector/cute-cat-hacker-operating-laptop-mascot-technology-logo_513640-3219.jpg?semt=ais_hybrid&w=740&q=80" height="330"/>
 </div>
 
 <!-- Animated Typing Header -->
