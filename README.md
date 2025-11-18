@@ -37,8 +37,8 @@
 - 📫 **Email**: nishantgenius03@gmail.com  
 
 ---
-<br><br>
-<div aglin="center", style="font-size: 24px;"> <strong>🛠 Skills & Tech Stack </strong></div>
+<br>
+<div aglin="center"> <strong>🛠 Skills & Tech Stack </strong></div>
 
 <div align="center">
 <h3>Technologies I use to build scalable & intelligent applications</h3>
