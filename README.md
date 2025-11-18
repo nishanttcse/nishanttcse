@@ -37,8 +37,8 @@
 - 📫 **Email**: nishantgenius03@gmail.com  
 
 ---
-<br>
-<div aglin="center"> <strong>🛠 Skills & Tech Stack </strong></div>
+<br><br>
+# 🛠 Skills & Tech Stack
 
 <div align="center">
 <h3>Technologies I use to build scalable & intelligent applications</h3>
@@ -64,7 +64,7 @@
 </table>
 
 ---
-
+<br><br>
 # 🚀 Projects
 
 ### ⭐ LumiPsyche – AI Therapist  
@@ -83,7 +83,7 @@
 - Reduced emergency response time by 30%  
 
 ---
-
+<br><br>
 # 🏆 Achievements
 
 - Solved **300+ DSA Problems**  
@@ -92,7 +92,7 @@
 - Led college social club → **70% engagement boost**  
 
 ---
-
+<br><br>
 # 📜 Certifications
 
 - AWS Cloud Practitioner Essentials  
@@ -103,8 +103,8 @@
 - Infosys Springboard – Web Dev & Python  
 
 ---
-
-## 🧠 Developer Personality
+<
+# 🧠 Developer Personality
 
 <div style="background:#0d1117; padding:20px; border-radius:12px; color:#e6edf3; font-family:Consolas, monospace; border:1px solid #30363d;">
 
@@ -120,7 +120,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;"AWS Cloud"<br>
 &nbsp;&nbsp;],<br><br>
 
-&nbsp;&nbsp;<span style="color:#a5d6ff;">experience</span>: "Web Developer Intern @ Future Intern — optimized UI, built authentication, developed full-stack modules.",<br><br>
+&nbsp;&nbsp;<span style="color:#a5d6ff;">experience</span>: "Web Developer Intern @Future Intern — optimized UI, built authentication, developed full-stack modules.",<br><br>
 
 &nbsp;&nbsp;<span style="color:#a5d6ff;">majorProjects</span>: [<br>
 &nbsp;&nbsp;&nbsp;&nbsp;"LumiPsyche — AI Therapist",<br>
