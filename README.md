@@ -101,15 +101,24 @@
 - Accenture Software Engineering Simulation  
 - Agile Development – LinkedIn Learning  
 - Infosys Springboard – Web Dev & Python  
-
+ 
 ---
 
 ## 🧠 Developer Mindset
 
-```js
+
 const AboutMe = {
   passion: "Building scalable apps & solving real-world problems",
   strengths: ["MERN Stack", "AI/ML", "AWS", "DSA"],
   mindset: "Build → Break → Learn → Repeat 🚀",
   motto: "Clean code. Meaningful products. Daily growth ✨"
 };
+
+## 📊 GitHub Stats
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nishanttcse&show_icons=true&theme=tokyonight" height="170"/> <img src="https://streak-stats.demolab.com?user=nishanttcse&theme=tokyonight" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishanttcse&layout=compact&theme=tokyonight" height="170"/> <img src="https://github-profile-trophy.vercel.app/?username=nishanttcse&theme=tokyonight&margin-w=10"/> </div>
+
+## 📈 Activity Graph
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=nishanttcse&theme=react-dark&hide_border=true"/> </div>
+
+## 🤍 Thanks for Visiting!
+<p align="center"> <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="600"/> </p>
