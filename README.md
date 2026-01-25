@@ -1,164 +1,70 @@
-<!-- Animated Corners -->
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="25%">
-<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="25%">
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="100" />
+<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="100" />
 
-<br><br><br>
-
-<!-- Hero Banner -->
-<div align="center">
-   <img src="https://img.freepik.com/premium-vector/cute-cat-hacker-operating-laptop-mascot-technology-logo_513640-3219.jpg?semt=ais_hybrid&w=740&q=80" height="330"/>
-</div>
-
-<!-- Animated Typing Header -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey+There!+I'm+Nishant+Srivastava;Aspiring+Software+Developer;AI+%26+ML+Enthusiast;MERN+Stack+Developer;Welcome+to+my+GitHub+Profile!" />
-</h1>
-
----
-
-<!-- Social Buttons -->
-<div align="center">
-   <a href="https://www.linkedin.com/in/nishant-s-srivastav/">
-     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-   </a>
-   <a href="mailto:nishantgenius03@gmail.com">
-     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-   </a>
-</div>
-
----
-<br><br>
-# 🧑‍💻 About Me
-
-- 🔭 **Working on**: LumiPsyche AI Therapist, ElderlyCareAI, MERN stack  
-- 🌱 **Learning**: ML, AWS, System Design  
-- 💬 **Ask me about**: MERN, Python, DSA, AI/ML  
-- 🚀 **Open to**: SDE Internships, AI/ML Roles, Open Source  
-- 📫 **Email**: nishantgenius03@gmail.com  
-
----
-<br><br>
-# 🛠 Skills & Tech Stack
+<br>
 
 <div align="center">
-<h3>Technologies I use to build scalable & intelligent applications</h3>
+  <img src="https://img.freepik.com/premium-vector/cute-cat-hacker-operating-laptop-mascot-technology-logo_513640-3219.jpg?semt=ais_hybrid&w=740&q=80" height="200" style="border-radius: 50%; border: 4px solid #00F7FF; box-shadow: 0 0 20px #00F7FF;" />
+  
+  <h1 align="center">Hi, I'm Nishant Srivastava! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Aspiring+Software+Developer;MERN+Stack+Expert;AI+%26+ML+Enthusiast;Building+Scalable+Solutions" alt="Typing SVG" />
+  </a>
 </div>
 
-<table align="center">
-<tr>
-<td align="center"> <img src="https://skillicons.dev/icons?i=python" width="50"><br>Python</td>
-<td align="center"> <img src="https://skillicons.dev/icons?i=cpp" width="50"><br>C++</td>
-<td align="center"> <img src="https://skillicons.dev/icons?i=javascript" width="50"><br>JavaScript</td>
-<td align="center"> <img src="https://skillicons.dev/icons?i=react" width="50"><br>React</td>
-<td align="center"> <img src="https://skillicons.dev/icons?i=nodejs" width="50"><br>Node.js</td>
-<td align="center"> <img src="https://skillicons.dev/icons?i=mongodb" width="50"><br>MongoDB</td>
-</tr>
-<tr>
-<td align="center"> <img src="https://skillicons.dev/icons?i=express" width="50"><br>Express</td>
-<td align="center"> <img src="https://skillicons.dev/icons?i=nextjs" width="50"><br>Next.js</td>
-<td align="center"> <img src="https://skillicons.dev/icons?i=mysql" width="50"><br>MySQL</td>
-<td align="center"> <img src="https://skillicons.dev/icons?i=tailwind" width="50"><br>Tailwind CSS</td>
-<td align="center"> <img src="https://skillicons.dev/icons?i=aws" width="50"><br>AWS</td>
-<td align="center"> <img src="https://skillicons.dev/icons?i=docker" width="50"><br>Docker</td>
-</tr>
-</table>
+<br>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/nishant-s-srivastav/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:nishantgenius03@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/nishanttcse">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</div>
 
 ---
-<br><br>
-# 🚀 Projects
 
-### ⭐ LumiPsyche – AI Therapist  
-- NLP-based therapy assistant  
-- Sentiment analysis + mood tracking  
-- Built using Python + ML  
+<div align="center">
+  <h3> 👨‍💻 About Me </h3>
+</div>
 
-### ⭐ ReWear – Clothing Exchange Platform  
-- 1,000+ clothing swaps  
-- Secure login (500+ DAU)  
-- Full MERN implementation  
-
-### ⭐ ElderlyCareAI – Real-time Health Monitoring  
-- AI anomaly detection  
-- <0.5s query latency  
-- Reduced emergency response time by 30%  
+- 🔭 **Currently Building**: `LumiPsyche` (AI Therapist) & `ElderlyCareAI`
+- 🌱 **Learning**: Machine Learning, AWS Cloud Architecture, System Design
+- 💬 **Ask Me About**: MERN Stack, Python, Data Structures & Algorithms
+- ⚡ **Fun Fact**: I built an Instagram community of **90K+** followers!
+- 🚀 **Goal**: Seeking SDE Internships & AI/ML opportunities.
 
 ---
-<br><br>
-# 🏆 Achievements
 
-- Solved **300+ DSA Problems**  
-- **Python Gold Badge** – HackerRank  
-- Built an Instagram community of **90K+ followers**  
-- Led college social club → **70% engagement boost**  
+### 🧠 Developer Personality
 
----
-<br><br>
-# 📜 Certifications
-
-- AWS Cloud Practitioner Essentials  
-- Career Essentials in Generative AI – Microsoft + LinkedIn  
-- Salesforce Agentblazer Champion  
-- Accenture Software Engineering Job Simulation  
-- Agile Development – LinkedIn Learning  
-- Infosys Springboard – Web Dev & Python  
-
----
-<
-# 🧠 Developer Personality
-
-<div style="background:#0d1117; padding:20px; border-radius:12px; color:#e6edf3; font-family:Consolas, monospace; border:1px solid #30363d;">
-
-<span style="color:#ff7b72;">const</span> AboutMe = {<br><br>
-
-&nbsp;&nbsp;<span style="color:#a5d6ff;">passion</span>: "Building scalable apps and solving real-world problems using clean, optimized engineering.",<br><br>
-
-&nbsp;&nbsp;<span style="color:#a5d6ff;">strengths</span>: [<br>
-&nbsp;&nbsp;&nbsp;&nbsp;"C++, Java, Python, JavaScript",<br>
-&nbsp;&nbsp;&nbsp;&nbsp;"MERN Stack (React, Node.js, Express, MongoDB)",<br>
-&nbsp;&nbsp;&nbsp;&nbsp;"AI/ML (TensorFlow, NLP, LLMs)",<br>
-&nbsp;&nbsp;&nbsp;&nbsp;"MySQL, MongoDB, SQLite",<br>
-&nbsp;&nbsp;&nbsp;&nbsp;"AWS Cloud"<br>
-&nbsp;&nbsp;],<br><br>
-
-&nbsp;&nbsp;<span style="color:#a5d6ff;">experience</span>: "Web Developer Intern @Future Intern — optimized UI, built authentication, developed full-stack modules.",<br><br>
-
-&nbsp;&nbsp;<span style="color:#a5d6ff;">majorProjects</span>: [<br>
-&nbsp;&nbsp;&nbsp;&nbsp;"LumiPsyche — AI Therapist",<br>
-&nbsp;&nbsp;&nbsp;&nbsp;"ReWear — Community Clothing Exchange Platform",<br>
-&nbsp;&nbsp;&nbsp;&nbsp;"ElderlyCareAI — Real-time Health Monitoring System"<br>
-&nbsp;&nbsp;],<br><br>
-
-&nbsp;&nbsp;<span style="color:#a5d6ff;">achievements</span>: [<br>
-&nbsp;&nbsp;&nbsp;&nbsp;"300+ DSA Problems",<br>
-&nbsp;&nbsp;&nbsp;&nbsp;"Python Gold Badge — HackerRank",<br>
-&nbsp;&nbsp;&nbsp;&nbsp;"90K+ Instagram Community",<br>
-&nbsp;&nbsp;&nbsp;&nbsp;"Navrang Club Engagement +70%"<br>
-&nbsp;&nbsp;],<br><br>
-
-&nbsp;&nbsp;<span style="color:#a5d6ff;">mindset</span>: "Always improving. Build → Break → Learn → Repeat 🚀",<br>
-&nbsp;&nbsp;<span style="color:#a5d6ff;">motto</span>: "Write clean code, build meaningful products, grow daily ✨"<br>
-
+```javascript
+const nishant = {
+    code: ["Python", "Javascript", "C++", "Java"],
+    askMeAbout: ["Web Dev", "Tech", "AI/ML", "DSA"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Next.js", "Tailwind"],
+            css: ["Bootstrap", "MaterialUI"]
+        },
+        backEnd: {
+            js: ["Node", "Express"],
+            db: ["MongoDB", "MySQL", "SQLite"]
+        },
+        devOps: ["AWS", "Docker", "Git"]
+    },
+    currentFocus: "Building AI-driven mental health solutions.",
+    funFact: "I solved 300+ DSA problems while building a 90k+ social community."
 };
-</div>
 
-## 📊 GitHub Stats & Activity
-<div align="center">
-   
-## ⭐ GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=nishanttcse&show_icons=true&theme=tokyonight" height="170"/><br>
+<div align="center">LanguagesFrontendBackendDatabase & Cloud<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpython,cpp,java,js" width="180"/><img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dreact,nextjs,tailwind,html,css" width="220"/>
+</div>🚀 Featured ProjectsProjectDescriptionTech Stack🧠 LumiPsycheAI Therapist with NLP-based sentiment analysis and mood tracking.Python, ML, NLP♻️ ReWearClothing Exchange Platform with 1,000+ swaps and 500+ DAU.React, Node, MongoDB🏥 ElderlyCareAIReal-time Health Monitoring with anomaly detection (<0.5s latency).
 
-## ⭐ GitHub Streaks
-<img src="https://streak-stats.demolab.com?user=nishanttcse&theme=tokyonight" height="170"/><br>
+<div align="center">AchievementsCertifications🥇 Python Gold Badge (HackerRank)☁️ AWS Cloud Practitioner Essentials🧩 300+ DSA Problems Solved🤖 Generative AI (Microsoft + LinkedIn)📈 90K+ Followers on Instagram💼 Salesforce Agentblazer Champion🚀 70% Engagement Boost (Navrang Club)🎓 Infosys Springboard (Web Dev)
 
-## ⭐ Top Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishanttcse&layout=compact&theme=tokyonight" height="170"/><br>
-
-## 🏆 GitHub Trophy
-<img src="https://github-profile-trophy.vercel.app/?username=nishanttcse&theme=tokyonight&margin-w=15"/> </div><br>
-
-## 📈 GitHub Activity Graph
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=nishanttcse&theme=react-dark&hide_border=true"/> 
-</div><br>
-
-# 🤍 Thanks for Visiting!
-<p align="center"> <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="600"> </p> 
+</div>🚀 Featured ProjectsProjectDescriptionTech Stack🧠 LumiPsycheAI Therapist with NLP-based sentiment analysis and mood tracking.Python, ML, NLP♻️ ReWearClothing Exchange Platform with 1,000+ swaps and 500+ DAU.React, Node, MongoDB🏥 ElderlyCareAIReal-time Health Monitoring with anomaly detection (<0.5s latency).Python, AI, IoT🏆 Achievements & Certifications<div align="center">AchievementsCertifications🥇 Python Gold Badge (HackerRank)☁️ AWS Cloud Practitioner Essentials🧩 300+ DSA Problems Solved🤖 Generative AI (Microsoft + LinkedIn)📈 90K+ Followers on Instagram💼 Salesforce Agentblazer Champion🚀 70% Engagement Boost (Navrang Club)🎓 Infosys Springboard (Web Dev)</div>📊 GitHub Stats<div align="center"><img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dnishanttcse%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0D1117" height="150" alt="stats graph"  /><img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dnishanttcse%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0D1117" height="150" alt="languages graph" /></div><div align="center"><img src="https://www.google.com/search?q=https://streak-stats.demolab.com%3Fuser%3Dnishanttcse%26theme%3Dtokyonight%26hide_border%3Dtrue%26background%3D0D1117" height="150" alt="streak graph" /></div><div align="center"><img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3Dnishanttcse%26theme%3Dtokyonight%26margin-w%3D15%26no-bg%3Dtrue" /></div><div align="center"><img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="100"><p>Thanks for visiting! Let's connect and build something amazing.</p><img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dnishanttcse%26label%3DProfile%2520Views%26color%3D0e75b6%26style%3Dflat" alt="nishanttcse" /></div>
