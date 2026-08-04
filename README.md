@@ -35,6 +35,7 @@
 - 💬 Ask me about **MERN, Python, DSA, AI/ML**
 - 🚀 Open to **SDE Internships, AI/ML Roles, Open Source**
 - 📫 Email: **nishantgenius03@gmail.com**
+- Portfolio: <a herf="https://nishsriportfolio.netlify.app/">
 
 ---
 
