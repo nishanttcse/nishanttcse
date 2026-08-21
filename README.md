@@ -164,20 +164,13 @@ const nishant: Developer = {
 ---
 
 ## `> github --stats`
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nishanttcse&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0E1A&title_color=00D9FF&icon_color=7C3AED&text_color=F0F4FF&ring_color=7C3AED" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=nishanttcse&theme=tokyonight&hide_border=true&background=0A0E1A&ring=7C3AED&fire=00D9FF&currStreakLabel=00D9FF" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishanttcse&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A0E1A&title_color=00D9FF&text_color=F0F4FF" height="160"/>
 </div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishanttcse&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A0E1A&title_color=00D9FF&text_color=F0F4FF" height="140"/>
-</div>
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nishanttcse&bg_color=0A0E1A&color=00D9FF&line=7C3AED&point=FFFFFF&hide_border=true" width="95%"/>
 </div>
-
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nishanttcse&theme=tokyonight&no-frame=true&column=7&margin-w=8"/>
 </div>
